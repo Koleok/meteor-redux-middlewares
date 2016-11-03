@@ -1,5 +1,5 @@
 # Directory for babel output
-lib/
+#lib/
 
 # Dependency directories
 node_modules/
